@@ -35,6 +35,7 @@ public class GameEngine {
         this.dice = new Dice();
 
     }
+    
 
     // Starts turn simulation, simulation will end iftermination conditions are met
     public void startSimulation() {
